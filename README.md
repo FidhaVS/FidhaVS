@@ -1,8 +1,8 @@
 ## Hi there! 👋 I'm Fidha V S
-## 🎓 Computer Science Student | 💻 AI & ML Enthusiast | 🌟 Tech Community Member
+### 🎓 Computer Science Student | 💻 AI & ML Enthusiast | 🌟 Tech Community Member
 Welcome to my GitHub profile! I'm a passionate Computer Science undergraduate at SCMS School of Engineering and Technology, currently diving deep into AI, Machine Learning, and full-stack development.
 
-## 🚀 About Me
+### 🚀 About Me
 🔭 Currently working on: AI/ML projects and web development solutions
 
 🌱 Currently learning: Advanced Machine Learning techniques and Data Science
@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science undergraduate at
 
 📫 How to reach me: fidhavs1@gmail.com
 
-## 💼 Professional Experience
+### 💼 Professional Experience
 🤖 Machine Learning Intern @ Techmaghi (Oct 2024)-
     Developed air pollution analysis project using Python.
     Applied ML techniques for environmental data analysis and predictive modeling.
@@ -26,12 +26,12 @@ Welcome to my GitHub profile! I'm a passionate Computer Science undergraduate at
     Led educational initiatives in Project Ganitham.
     Demonstrated leadership in community empowerment through education.
 
-## 🛠️ Technical Skills
+### 🛠️ Technical Skills
 Programming Languages - C , python , java , php(intermediate)
 
 Core subjects-Data Structures, Operating System , Compter Organization and Architecture
 
-## 🏆 Featured Projects
+### 🏆 Featured Projects
 🚨 Women Safety Portal-
     A comprehensive web platform focused on women's safety with emergency helpline, safe zone mapping, and community support features.
 
@@ -47,7 +47,7 @@ Core subjects-Data Structures, Operating System , Compter Organization and Archi
 💝 SoulSync
     Innovative application focusing on mental health and personal well-being.
 
-## 🏅 Achievements & Certifications
+### 🏅 Achievements & Certifications
 🥈 Second Prize - Intercollegiate PowerPoint Presentation on 'Breast Cancer Awareness'
 
 🏆 Participant - "Useless Projects" 24-hour Makeathon by TinkerHub
@@ -60,7 +60,7 @@ Core subjects-Data Structures, Operating System , Compter Organization and Archi
 
 📈 Data Visualization using Tableau - BSSS Research Cell
 
-## 🌟 Leadership & Community
+### 🌟 Leadership & Community
 🎤 Anchor for Alumni Talk on "The Significance of Git in Project Management"
 
 👥 Active Member of TinkerHub technology community , Yi Yuva SSET , Oratory Society (OrSo)
@@ -71,7 +71,7 @@ Core subjects-Data Structures, Operating System , Compter Organization and Archi
 
 💡 Regular Participant in hackathons and tech competitions
 
-## 💝 Support My Work
+### 💝 Support My Work
 If you find my projects helpful, consider giving them a ⭐️ star! It means a lot and helps me continue creating meaningful tech solutions.
 
 "Empowering communities through technology, one project at a time." ✨
