@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science undergraduate at
     Led educational initiatives in Project Ganitham.
     Demonstrated leadership in community empowerment through education.
 
-### 🛠️ Technical Skills
+###  Technical Skills
 Programming Languages:  C , python , java , php(intermediate)
 
 Core subjects:  Data Structures, Operating System , Compter Organization and Architecture
