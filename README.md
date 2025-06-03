@@ -14,32 +14,32 @@ Welcome to my GitHub profile! I'm a passionate Computer Science undergraduate at
 📫 How to reach me: fidhavs1@gmail.com
 
 ## 💼 Professional Experience
-🤖 Machine Learning Intern @ Techmaghi (Oct 2024)
-    Developed air pollution analysis project using Python
-    Applied ML techniques for environmental data analysis and predictive modeling
+🤖 Machine Learning Intern @ Techmaghi (Oct 2024)-
+    Developed air pollution analysis project using Python.
+    Applied ML techniques for environmental data analysis and predictive modeling.
 
-🧠 Jr. AI Intern @ TenzoTech, Ernakulam (May 2023)
-    Gained hands-on experience in AI development and implementation
-    Recognized for professional approach and team collaboration
+🧠 Jr. AI Intern @ TenzoTech, Ernakulam (May 2023)-
+    Gained hands-on experience in AI development and implementation.
+    Recognized for professional approach and team collaboration.
 
-👩‍🏫 Teaching Team Member @ Insight for Innovation (Aug 2022)
-    Led educational initiatives in Project Ganitham
-    Demonstrated leadership in community empowerment through education
+👩‍🏫 Teaching Team Member @ Insight for Innovation (Aug 2022)-
+    Led educational initiatives in Project Ganitham.
+    Demonstrated leadership in community empowerment through education.
 
 ## 🛠️ Technical Skills
 Programming Languages - C,puthon,java,php(intermediate)
 
 ## 🏆 Featured Projects
-🚨 Women Safety Portal
+🚨 Women Safety Portal-
     A comprehensive web platform focused on women's safety with emergency helpline, safe zone mapping, and community support features.
 
-💊 Medicine Reminder App
+💊 Medicine Reminder App-
     Smart medication management system to help users track and manage their medication schedules.
 
-🤖 Boring Bot
+🤖 Boring Bot-
     An interactive chatbot project showcasing natural language processing capabilities.
 
-📊 Data Visualization Software
+📊 Data Visualization Software-
     Advanced data visualization tool built with Python for comprehensive data analysis.
 
 💝 SoulSync
