@@ -4,9 +4,13 @@ Welcome to my GitHub profile! I'm a passionate Computer Science undergraduate at
 
 ## 🚀 About Me
 🔭 Currently working on: AI/ML projects and web development solutions
+
 🌱 Currently learning: Advanced Machine Learning techniques and Data Science
+
 👯 Looking to collaborate on: Open source projects, AI/ML applications, and social impact tech
+
 💬 Ask me about: Python, Java, Machine Learning, Web Development, and Women Safety Tech
+
 📫 How to reach me: fidhavs1@gmail.com
 
 ## 💼 Professional Experience
@@ -28,28 +32,41 @@ Programming Languages - C,puthon,java,php(intermediate)
 ## 🏆 Featured Projects
 🚨 Women Safety Portal
     A comprehensive web platform focused on women's safety with emergency helpline, safe zone mapping, and community support features.
+
 💊 Medicine Reminder App
     Smart medication management system to help users track and manage their medication schedules.
+
 🤖 Boring Bot
     An interactive chatbot project showcasing natural language processing capabilities.
+
 📊 Data Visualization Software
     Advanced data visualization tool built with Python for comprehensive data analysis.
+
 💝 SoulSync
     Innovative application focusing on mental health and personal well-being.
 
 ## 🏅 Achievements & Certifications
 🥈 Second Prize - Intercollegiate PowerPoint Presentation on 'Breast Cancer Awareness'
+
 🏆 Participant - "Useless Projects" 24-hour Makeathon by TinkerHub
+
 📜 Certified in IoT Workshop by ICT Academy of Kerala
+
 🎯 Elite Certification - NPTEL Soft Skills & Personality (68%)
+
 🔒 100% Score - Cyber Ethics Certification
+
 📈 Data Visualization using Tableau - BSSS Research Cell
 
 ## 🌟 Leadership & Community
 🎤 Anchor for Alumni Talk on "The Significance of Git in Project Management"
+
 👥 Active Member of TinkerHub technology community
+
 🏛️ Participant in Dr. APJ Abdul Kalam Energy Quiz Programme
+
 🚀 Graduate of Young Innovators Program 7.0 (VOS Training)
+
 💡 Regular Participant in hackathons and tech competitions
 
 ## 💝 Support My Work
