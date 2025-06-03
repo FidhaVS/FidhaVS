@@ -71,7 +71,7 @@ Core subjects:  Data Structures, Operating System , Compter Organization and Arc
 
  Regular Participant in hackathons and tech competitions
 
-### 💝 Support My Work
-If you find my projects helpful, consider giving them a ⭐️ star! It means a lot and helps me continue creating meaningful tech solutions.
+###  Support My Work
+If you find my projects helpful, consider giving them a ⭐ star! It means a lot and helps me continue creating meaningful tech solutions.
 
 "Empowering communities through technology, one project at a time." ✨
