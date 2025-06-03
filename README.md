@@ -27,7 +27,9 @@ Welcome to my GitHub profile! I'm a passionate Computer Science undergraduate at
     Demonstrated leadership in community empowerment through education.
 
 ## 🛠️ Technical Skills
-Programming Languages - C,puthon,java,php(intermediate)
+Programming Languages - C , python , java , php(intermediate)
+
+Core subjects-Data Structures, Operating System , Compter Organization and Architecture
 
 ## 🏆 Featured Projects
 🚨 Women Safety Portal-
