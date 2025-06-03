@@ -63,7 +63,7 @@ Core subjects-Data Structures, Operating System , Compter Organization and Archi
 ## 🌟 Leadership & Community
 🎤 Anchor for Alumni Talk on "The Significance of Git in Project Management"
 
-👥 Active Member of TinkerHub technology community
+👥 Active Member of TinkerHub technology community , Yi Yuva SSET , Oratory Society (OrSo)
 
 🏛️ Participant in Dr. APJ Abdul Kalam Energy Quiz Programme
 
