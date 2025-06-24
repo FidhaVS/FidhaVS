@@ -27,9 +27,9 @@ Welcome to my GitHub profile! I'm a passionate Computer Science undergraduate at
     Demonstrated leadership in community empowerment through education.
 
 ###  Technical Skills
-Programming Languages:  C , python , java , php(intermediate)
+Programming Languages:  C , python , java 
 
-Core subjects:  Data Structures, Operating System , Compter Organization and Architecture
+Core subjects:  Data Structures, Operating System , Formal Languages and Automated theory , Database Management System
 
 ###  Featured Projects
  1. Women Safety Portal-
@@ -41,11 +41,12 @@ Core subjects:  Data Structures, Operating System , Compter Organization and Arc
  3. Boring Bot-
     An interactive chatbot project showcasing natural language processing capabilities.
 
- 4. Data Visualization Software-
+ 4. VougeVille
+    A luxury fashion e-commerce
+    
+ 6. Data Visualization Software-
     Advanced data visualization tool built with Python for comprehensive data analysis.
 
- 5. SoulSync
-    Innovative application focusing on mental health and personal well-being.
 
 ### 🏅 Achievements & Certifications
  Second Prize - Intercollegiate PowerPoint Presentation on 'Breast Cancer Awareness'
