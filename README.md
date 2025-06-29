@@ -61,6 +61,16 @@ Core subjects:  Data Structures, Operating System , Formal Languages and Automat
 
  Data Visualization using Tableau - BSSS Research Cell
 
+Certified in Agile, DevOps, CCNA, and IoT
+
+
+2nd Prize – Intercollegiate Business Plan Competition (IIC)
+
+Cybersecurity: Ethical Hacking Workshop, CTF by Traboda & Corporate Training
+
+TINK-HER-HACK 3.0 – Built AI-based Digital Medicine Reminder app
+
+
 ###  Leadership & Community
  Anchor for Alumni Talk on "The Significance of Git in Project Management"
 
