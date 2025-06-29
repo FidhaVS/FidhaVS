@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science undergraduate at
 
  Looking to collaborate on: Open source projects, AI/ML applications, and social impact tech
 
- Ask me about: Python, Java, Machine Learning, Web Development, and Women Safety Tech
+ Ask me about: Python, C, Machine Learning, Web Development, and Women Safety Tech
 
  How to reach me: fidhavs1@gmail.com
 
