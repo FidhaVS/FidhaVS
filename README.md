@@ -51,7 +51,7 @@ Core subjects:  Data Structures, Operating System , Formal Languages and Automat
 ###  Achievements & Certifications
  Second Prize - Intercollegiate PowerPoint Presentation on 'Breast Cancer Awareness'
 
- Participant - "Useless Projects" 24-hour Makeathon by TinkerHub
+ Participant - "Useless Projects",Tink-Her-Hack 3.0, 24-hour Makeathon by TinkerHub
 
  Certified in IoT Workshop by ICT Academy of Kerala
 
