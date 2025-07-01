@@ -1,7 +1,7 @@
 ## Hi there! I'm Fidha V S
 ###  Computer Science Student |  AI & ML Enthusiast |  Tech Community Member
-Welcome to my GitHub profile! I'm a passionate Computer Science undergraduate at SCMS School of Engineering and Technology, currently diving deep into AI, Machine Learning, and full-stack development.
-
+Welcome to my GitHub profile! I'm a passionate Computer Science undergraduate at SCMS School of Engineering and Technology with hands-on experience in Machine Learning and Web Development through AI-
+powered projects and scalable web applications.
 ###  About Me
  Currently working on: AI/ML projects and web development solutions
 
@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science undergraduate at
 
  Looking to collaborate on: Open source projects, AI/ML applications, and social impact tech
 
- Ask me about: Python, C, Machine Learning, Web Development, and Women Safety Tech
+ Ask me about: Python, C, YOLO, CNN, Machine Learning, Web Development, and Women Safety Tech
 
  How to reach me: fidhavs1@gmail.com
 
@@ -26,8 +26,13 @@ Welcome to my GitHub profile! I'm a passionate Computer Science undergraduate at
     Led educational initiatives in Project Ganitham.
     Demonstrated leadership in community empowerment through education.
 
+4. Web Developer Intern @ Hostcurator (June 2025)-
+    Built a scalable e-commerce app in Python with user login, product catalog, and payment features.
+    Applied backend development skills and best practices for web solutions.
+
+
 ###  Technical Skills
-Programming Languages:  C , python , java 
+Programming Languages:  C , python , HTML,CSS
 
 Core subjects:  Data Structures, Operating System , Formal Languages and Automated theory , Database Management System
 
@@ -63,6 +68,14 @@ Core subjects:  Data Structures, Operating System , Formal Languages and Automat
 
 Certified in Agile, DevOps, CCNA, and IoT
 
+Zero to Python Hero: Code Smart with AI  
+LetsUpgrade & NSDC
+
+Netflix Clone using HTML & CSS - LetsUpgrade & NSDC
+
+Cyber Job Simulation - Deloitte via Forage
+
+Cybersecurity Analyst Job Simulation - TATA via Forage 
 
 2nd Prize – Intercollegiate Business Plan Competition (IIC)
 
